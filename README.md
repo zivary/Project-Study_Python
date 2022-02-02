@@ -4,10 +4,10 @@
 # Project_Study_Python
 ---
 ## 2022년 5주차 Study
-### BeautifulSoup4
+### [BeautifulSoup4](https://github.com/zivary/Project_Study_BeautifulSoup4)
 ---
 ## 2022년 3주차 Study
-### Pandas
+### [Pandas](https://github.com/zivary/Project_Study_Pandas)
 ---
 ## 2022년 2주차 Study
 
