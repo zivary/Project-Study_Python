@@ -11,7 +11,9 @@
 ### 2022-02_NaDoCording
 >[나도코딩] \
 >강의 YouTube \
->https://youtu.be/kWiCuklohdY
+>https://youtu.be/kWiCuklohdY \
+>강의 자료 \
+>https://nadocoding.tistory.com/category/파이썬%20강의/기본편
 
 ---
 ### GitHub 업로드 환경 구축
