@@ -1,4 +1,5 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/220px-Python_logo_and_wordmark.svg.png">
+![Logo_Python_500px](https://user-images.githubusercontent.com/96277148/152209681-8c54e3dc-c6bf-4199-a859-9ff631b99c85.png)
+
 
 # Project Study Python
 
