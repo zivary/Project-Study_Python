@@ -1,4 +1,4 @@
-![logo-Python](https://user-images.githubusercontent.com/96277148/152208474-153dc44c-56f9-4f27-ab4d-4fc89a729cc9.png)
+![Logo_Python_500px](https://user-images.githubusercontent.com/96277148/152209681-8c54e3dc-c6bf-4199-a859-9ff631b99c85.png)
 
 
 # Project Study Python
