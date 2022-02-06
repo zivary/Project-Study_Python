@@ -3,6 +3,9 @@
 
 # Project_Study_Python
 ---
+## 2022년 6주차 Study
+### wordCloudPython
+---
 ## 2022년 5주차 Study
 ### [BeautifulSoup4](https://github.com/zivary/Project_Study_BeautifulSoup4)
 ---
