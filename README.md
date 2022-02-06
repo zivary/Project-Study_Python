@@ -13,10 +13,11 @@
 
 ---
 ## 2022년 3주차 Study
-### [Project_Study_Pandas](https://github.com/zivary/Project_Study_Pandas)/2022-02_10 minutes to pandas 
 ### [Project_Study_Pandas](https://github.com/zivary/Project_Study_Pandas)/2022-03_[Minsuk Heo 허민석]Pandas 팬더스 강의 기초 실습
 ---
 ## 2022년 2주차 Study
+
+### [Project_Study_Pandas](https://github.com/zivary/Project_Study_Pandas)/2022-02_10 minutes to pandas
 
 ### 2022_02_NaDoCording
 >[나도코딩] \
