@@ -8,10 +8,13 @@
 ---
 ## 2022년 5주차 Study
 ### [Project_Study_BeautifulSoup4/2022-05_webScraping_basic](https://github.com/zivary/Project_Study_BeautifulSoup4)
+
+### [Project_Study_Pandas](https://github.com/zivary/Project_Study_Pandas)/2022-05_EDA_Titanic
+
 ---
 ## 2022년 3주차 Study
-### [Project_Study_Pandas](https://github.com/zivary/Project_Study_Pandas)/**10 minutes to pandas**
-### [Project_Study_Pandas](https://github.com/zivary/Project_Study_Pandas)/[Minsuk Heo 허민석]Pandas 팬더스 강의 기초 실습
+### [Project_Study_Pandas](https://github.com/zivary/Project_Study_Pandas)/2022-02_10 minutes to pandas 
+### [Project_Study_Pandas](https://github.com/zivary/Project_Study_Pandas)/2022-03_[Minsuk Heo 허민석]Pandas 팬더스 강의 기초 실습
 ---
 ## 2022년 2주차 Study
 
