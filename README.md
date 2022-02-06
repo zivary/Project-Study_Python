@@ -7,7 +7,7 @@
 ### 2022_06_wordCloudPython
 ---
 ## 2022년 5주차 Study
-### [BeautifulSoup4](https://github.com/zivary/Project_Study_BeautifulSoup4)
+### [Project_Study_BeautifulSoup4/2022-05_webScraping_basic](https://github.com/zivary/Project_Study_BeautifulSoup4/tree/main/2022-06_web_crawling.econoi)
 ---
 ## 2022년 3주차 Study
 ### [Pandas](https://github.com/zivary/Project_Study_Pandas)
