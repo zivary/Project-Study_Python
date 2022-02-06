@@ -10,7 +10,7 @@
 ### [Project_Study_BeautifulSoup4/2022-05_webScraping_basic](https://github.com/zivary/Project_Study_BeautifulSoup4/tree/main/2022-06_web_crawling.econoi)
 ---
 ## 2022년 3주차 Study
-### [Pandas](https://github.com/zivary/Project_Study_Pandas)
+### [Project_Study_Pandas/[Minsuk Heo 허민석]Pandas 팬더스 강의 기초 실습](https://github.com/zivary/Project_Study_Pandas)
 ---
 ## 2022년 2주차 Study
 
@@ -24,3 +24,6 @@
 
 ---
 ### GitHub 업로드 환경 구축
+
+
+Project_Study_Pandas/[Minsuk Heo 허민석]Pandas 팬더스 강의 기초 실습
