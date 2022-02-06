@@ -10,7 +10,7 @@
 ### [Project_Study_BeautifulSoup4/2022-05_webScraping_basic](https://github.com/zivary/Project_Study_BeautifulSoup4/tree/main/2022-06_web_crawling.econoi)
 ---
 ## 2022년 3주차 Study
-### [Pandas](https://github.com/zivary/Project_Study_Pandas)
+### [Project_Study_Pandas/**10 minutes to pandas**](https://github.com/zivary/Project_Study_Pandas)
 ---
 ## 2022년 2주차 Study
 
