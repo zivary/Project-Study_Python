@@ -11,7 +11,7 @@
 ---
 ## 2022년 3주차 Study
 ### [Project_Study_Pandas/**10 minutes to pandas**](https://github.com/zivary/Project_Study_Pandas)
-### [Project_Study_Pandas/[Minsuk Heo 허민석]Pandas 팬더스 강의 기초 실습
+### [Project_Study_Pandas/[Minsuk Heo 허민석]Pandas 팬더스 강의 기초 실습](https://github.com/zivary/Project_Study_Pandas/tree/main/%5BMinsuk%20Heo%20허민석%5DPandas%20팬더스%20강의%20기초%20실습)
 ---
 ## 2022년 2주차 Study
 
