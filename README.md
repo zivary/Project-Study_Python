@@ -4,7 +4,7 @@
 # Project_Study_Python
 ---
 ## 2022년 6주차 Study
-### wordCloudPython
+### 2022_06_wordCloudPython
 ---
 ## 2022년 5주차 Study
 ### [BeautifulSoup4](https://github.com/zivary/Project_Study_BeautifulSoup4)
@@ -14,7 +14,7 @@
 ---
 ## 2022년 2주차 Study
 
-### 2022-02_NaDoCording
+### 2022_02_NaDoCording
 >[나도코딩] \
 >강의 YouTube \
 >파이썬 코딩 무료 강의 (기본편) - 6시간 뒤면 여러분도 개발자가 될 수 있어요 [나도코딩] \
